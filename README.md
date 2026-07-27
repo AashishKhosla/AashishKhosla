@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋, I'm Aashish Khosla
+  Hi 👋, I'm Aashish Khosla
 </h1>
 
 <h3 align="center">
@@ -7,17 +7,17 @@ I'm a Computer Science student at UMass Amherst with interests in machine learni
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AashishKhosla&label=Profile%20views&color=0e75b6&style=flat" alt="AashishKhosla" />
+  <img src="https://komarev.com/ghpvc/?username=AashishKhosla&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aashish-khosla/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/aashish-khosla/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:aashishkhosl@umass.edu">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:aashishkhosl@umass.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -97,7 +97,9 @@ Working on privacy-preserving machine learning for EEG signals with a focus on b
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,git,github,vscode"/>
+
 </p>
 
 ### Machine Learning
@@ -121,14 +123,14 @@ Working on privacy-preserving machine learning for EEG signals with a focus on b
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AashishKhosla&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AashishKhosla&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashishKhosla&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashishKhosla&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=AashishKhosla&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AashishKhosla&theme=github-dark-blue&hide_border=true"/>
 
 </p>
