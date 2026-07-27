@@ -43,5 +43,5 @@ Feature engineering and predictive modelling for financial markets.
 
 ## 📫 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/aashish-khosla/)
+- LinkedIn: [linkedin.com/in/aashish-khosla](https://www.linkedin.com/in/aashish-khosla/)
 - Email: aashishkhosl@umass.edu
