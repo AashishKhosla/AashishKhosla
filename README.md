@@ -1,6 +1,10 @@
-# Hi, I'm Aashish 👋
+<h1 align="center">
+Hi 👋, I'm Aashish Khosla
+</h1>
 
+<h3 align="center">
 I'm a Computer Science student at UMass Amherst with interests in machine learning and AI research. I enjoy building data-driven systems and conducting research at the intersection of machine learning and real-world applications.
+</h3>
 
 ## 🌱 Currently Working On
 
