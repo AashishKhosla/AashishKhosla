@@ -84,7 +84,14 @@ Working on privacy-preserving machine learning for EEG signals with a focus on b
 - Jupyter Notebook
 - Google Colab
 
-## 📫 Connect With Me
+<p align="center">
 
-- LinkedIn: [linkedin.com/in/aashish-khosla](https://www.linkedin.com/in/aashish-khosla/)
-- Email: aashishkhosl@umass.edu
+<a href="https://www.linkedin.com/in/aashish-khosla/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aashishkhosl@umass.edu">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
