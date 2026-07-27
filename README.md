@@ -8,6 +8,20 @@ I'm a Computer Science student at UMass Amherst with interests in machine learni
 - Deep Learning
 - Machine Learning Research
 
+## 🚀 Featured Projects
+
+### EEG Privacy Preservation
+Privacy-preserving machine learning techniques for EEG motor imagery data while balancing utility and subject privacy.
+
+### Bitcoin Price Forecasting
+Compared 30 regression models for Bitcoin price prediction using historical market data.
+
+### Financial Sentiment Analysis
+Applied NLP and machine learning to analyze financial text.
+
+### Optiver Trading at the Close
+Feature engineering and predictive modelling for financial markets.
+
 ## 🛠️ Tech Stack
 
 **Languages**
