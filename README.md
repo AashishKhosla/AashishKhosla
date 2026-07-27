@@ -1,6 +1,6 @@
 # Hi, I'm Aashish 👋
 
-I'm a Computer Science & Mathematics student at UMass Amherst interested in Machine Learning, Deep Learning, and AI Research.
+I'm a Computer Science student at UMass Amherst with interests in machine learning and AI research. I enjoy building data-driven systems and conducting research at the intersection of machine learning and real-world applications.
 
 ## 🌱 Currently Working On
 
