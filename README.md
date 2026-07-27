@@ -36,6 +36,28 @@ Developed predictive models for stock price movement using market microstructure
 
 **Technologies:** Python, XGBoost, LightGBM, Pandas
 
+## 📚 Research & Publications
+
+- Privacy-Preserving Machine Learning for EEG Data (Ongoing)
+- Machine Learning for Bitcoin Price Forecasting
+- Financial Sentiment Analysis using Large Language Models
+
+## 🎓 Experience
+
+### Break Through Tech AI Fellow
+- Completed the ML Foundations curriculum
+- Building industry-scale AI projects
+- Strengthened technical, teamwork, and communication skills
+
+### Undergraduate Researcher
+Working on privacy-preserving machine learning for EEG signals with a focus on balancing model utility and subject privacy.
+
+## 🏆 Honors & Awards
+
+- Commonwealth Honors College, UMass Amherst
+- Break Through Tech AI Fellow
+- Adobe Student Ambassador
+  
 ## 🛠️ Tech Stack
 
 **Languages**
