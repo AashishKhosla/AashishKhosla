@@ -30,9 +30,15 @@ I'm a Computer Science student at UMass Amherst with interests in machine learni
 
 ---
 
+## 🌐 Interests
+
+- Quantitative Finance
+- Machine Learning Research
+- Student Leadership
+  
 ## 🚀 Featured Projects
 
-### 🧠 EEG Privacy Preservation
+### 🧠 [EEG Privacy Preservation](https://github.com/AashishKhosla/eeg-privacy-analysis)
 
 Privacy-preserving machine learning methods for EEG motor imagery that reduce subject identity leakage while maintaining classification utility.
 
