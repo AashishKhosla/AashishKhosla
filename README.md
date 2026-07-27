@@ -8,6 +8,25 @@ I'm a Computer Science student at UMass Amherst with interests in machine learni
 - Deep Learning
 - Machine Learning Research
 
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- Java
+
+**Machine Learning**
+- PyTorch
+- TensorFlow
+- scikit-learn
+- Pandas
+- NumPy
+
+**Tools**
+- Git
+- GitHub
+- Jupyter Notebook
+- Google Colab
+
 ## 📫 Connect With Me
 
 - LinkedIn: (https://www.linkedin.com/in/aashish-khosla/)
