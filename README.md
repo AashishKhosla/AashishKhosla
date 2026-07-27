@@ -46,7 +46,7 @@ Privacy-preserving machine learning methods for EEG motor imagery that reduce su
 
 ---
 
-### 📈 Bitcoin Price Forecasting
+### 📈 Bitcoin Price Forecasting (Repository coming soon)
 
 Compared 30 machine learning regression algorithms for Bitcoin price forecasting using historical market data.
 
@@ -62,7 +62,7 @@ Built NLP models for financial text classification using machine learning and tr
 
 ---
 
-### 📊 Optiver Trading at the Close
+### 📊 Optiver Trading at the Close (Repository coming soon)
 
 Developed predictive models for stock price movement using market microstructure features.
 
