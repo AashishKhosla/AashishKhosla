@@ -8,6 +8,7 @@ I'm a Computer Science student at UMass Amherst with interests in machine learni
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AashishKhosla&label=Profile%20views&color=0e75b6&style=flat" alt="AashishKhosla" />
 </p>
+
 ## 🌱 Currently Working On
 
 - Privacy-Preserving Machine Learning for EEG Data
