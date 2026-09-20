@@ -66,15 +66,15 @@ Exploring potential real-world applications including financial resource allocat
 
 ---
 
-### 🤖 Domain-Specific Theme Labeling via SLM Distillation
+### 🤖 [Domain-Specific Theme Labeling via SLM Distillation](https://github.com/Break-Through-Tech/Automation-Anywhere-1B-domain-specific-theme-labeling-via-slm-distillation)
 
-Working with Automation Anywhere through Break Through Tech AI on an industry-sponsored NLP project.
+Working with Automation Anywhere through Break Through Tech AI on an industry-sponsored NLP project focused on domain-specific theme labeling for enterprise/customer-support text.
 
-Developing an LLM-to-SLM distillation pipeline using parameter-efficient fine-tuning methods such as LoRA and QLoRA for domain-specific theme labeling.
+Developing an LLM-to-SLM distillation pipeline using parameter-efficient fine-tuning methods such as LoRA and QLoRA to train smaller language models for scalable theme classification.
 
-Evaluating smaller language models against frontier LLMs across labeling quality, inference latency, and cost.
+Benchmarking SLMs against frontier LLMs across labeling quality, inference latency, and cost, to achieve comparable performance at lower computational expense.
 
-**Tech:** Python, PyTorch, Hugging Face, LoRA, QLoRA, LLMs, SLMs
+**Tech:** Python, PyTorch, Hugging Face, LoRA, QLoRA, LLMs, SLMs, NLP
 
 ---
 
