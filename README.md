@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-I'm a Computer Science student at UMass Amherst with interests in machine learning and AI research. I enjoy building data-driven systems and conducting research at the intersection of machine learning and real-world applications.
+Computer Science student at UMass Amherst interested in machine learning, quantitative finance, and algorithms under uncertainty.
 </h3>
 
 <p align="center">
@@ -22,11 +22,59 @@ I'm a Computer Science student at UMass Amherst with interests in machine learni
 
 ---
 
-## 🌱 Currently Working On
+## 🔬 Current Work
 
-- Privacy-Preserving Machine Learning for EEG Data
-- Deep Learning
-- Machine Learning Research
+- Research Assistant at the Laboratory for Advanced System Software (LASS), UMass Amherst
+- ERSP Scholar in the UMass CICS Theory Group
+- AI/ML Fellow with Break Through Tech AI, partnered with Automation Anywhere
+
+---
+
+## 🚀 Featured Work
+
+### 🧠 [NeuroSIB: Privacy-Preserving EEG Representation Learning](https://github.com/AashishKhosla/eeg-privacy-analysis)
+
+Developed a privacy-preserving EEG representation learning framework combining EEGNet with a stochastic information bottleneck to reduce subject-identity leakage while preserving motor-imagery classification utility.
+
+Benchmarked deterministic and stochastic bottleneck architectures across PhysioNet and BCI Competition IV-2a and conducted multi-seed robustness experiments to study privacy-utility trade-offs.
+
+**Tech:** Python, PyTorch, EEGNet, MNE, scikit-learn
+
+---
+
+### 💹 SentiCraft: Explainable Financial Sentiment Analysis
+
+Co-developed SentiCraft, an independent-study architecture for explainable financial sentiment analysis.
+
+The framework combines FinBERT contextual embeddings with Loughran-McDonald lexicon scores to create a hybrid representation for domain-aware sentiment classification.
+
+It also incorporates temporal sentiment aggregation across multiple horizons for applications such as market monitoring, risk analysis, and portfolio decision support.
+
+**Topics:** NLP, FinBERT, Transformer Models, Financial Sentiment Analysis, Explainable AI
+
+---
+
+### 🎯 Online Contention Resolution Schemes
+
+Researching Online Contention Resolution Schemes (OCRS) with Prof. Hedyeh Beyhaghi through the UMass CICS Early Research Scholars Program.
+
+Studying randomized online algorithms for sequential decision-making under uncertainty, with emphasis on probability, combinatorics, feasibility constraints, and approximation guarantees.
+
+Exploring potential real-world applications including financial resource allocation and other sequential decision problems.
+
+**Topics:** Randomized Algorithms, Online Algorithms, Probability, Combinatorics, Approximation Algorithms
+
+---
+
+### 🤖 Domain-Specific Theme Labeling via SLM Distillation
+
+Working with Automation Anywhere through Break Through Tech AI on an industry-sponsored NLP project.
+
+Developing an LLM-to-SLM distillation pipeline using parameter-efficient fine-tuning methods such as LoRA and QLoRA for domain-specific theme labeling.
+
+Evaluating smaller language models against frontier LLMs across labeling quality, inference latency, and cost.
+
+**Tech:** Python, PyTorch, Hugging Face, LoRA, QLoRA, LLMs, SLMs
 
 ---
 
@@ -34,67 +82,16 @@ I'm a Computer Science student at UMass Amherst with interests in machine learni
 
 - Quantitative Finance
 - Machine Learning Research
-- Student Leadership
-  
-## 🚀 Featured Projects
-
-### 🧠 [EEG Privacy Preservation](https://github.com/AashishKhosla/eeg-privacy-analysis)
-
-Privacy-preserving machine learning methods for EEG motor imagery that reduce subject identity leakage while maintaining classification utility.
-
-**Technologies:** Python, PyTorch, EEGNet, MNE, scikit-learn
+- Algorithms Under Uncertainty
+- Natural Language Processing
+- Probability and Statistics
 
 ---
 
-### 📈 Bitcoin Price Forecasting (Repository coming soon)
-
-Compared 30 machine learning regression algorithms for Bitcoin price forecasting using historical market data.
-
-**Technologies:** Python, scikit-learn, Pandas, NumPy
-
----
-
-### 💹 Financial Sentiment Analysis
-
-Built NLP models for financial text classification using machine learning and transformer-based approaches.
-
-**Technologies:** Python, Hugging Face, PyTorch
-
----
-
-### 📊 Optiver Trading at the Close (Repository coming soon)
-
-Developed predictive models for stock price movement using market microstructure features.
-
-**Technologies:** Python, XGBoost, LightGBM, Pandas
-
----
-
-## 📚 Research & Publications
-
-- Privacy-Preserving Machine Learning for EEG Data (Ongoing)
-- Machine Learning for Bitcoin Price Forecasting
-- Financial Sentiment Analysis using Large Language Models
-
----
-
-## 🎓 Experience
-
-### Break Through Tech AI Fellow
-
-- Completed the ML Foundations curriculum
-- Building industry-scale AI projects
-- Strengthened technical, teamwork, and communication skills
-
-### Undergraduate Researcher
-
-Working on privacy-preserving machine learning for EEG signals with a focus on balancing model utility and subject privacy.
-
----
-
-## 🏆 Honors & Awards
+## 🏆 Honors & Programs
 
 - Commonwealth Honors College, UMass Amherst
+- ERSP Scholar, UMass CICS
 - Break Through Tech AI Fellow
 - Adobe Student Ambassador
 
@@ -102,19 +99,23 @@ Working on privacy-preserving machine learning for EEG signals with a focus on b
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,git,github,vscode"/>
+- Python
+- Java
+- C
+- R
 
-</p>
-
-### Machine Learning
+### Machine Learning & Data
 
 - PyTorch
-- TensorFlow
 - scikit-learn
 - Pandas
 - NumPy
+- Matplotlib
+- XGBoost
+- LightGBM
+- Hugging Face
 
 ### Tools
 
@@ -122,6 +123,7 @@ Working on privacy-preserving machine learning for EEG signals with a focus on b
 - GitHub
 - Jupyter Notebook
 - Google Colab
+- RStudio
 
 ---
 
